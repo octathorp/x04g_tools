@@ -26,11 +26,15 @@ Both variants share the same hardware, so you can install both software versions
 
 ### HOWTOs
 
-(WIP)
+[Backup whole flash](howtos/BackupFlash.md)
+
+[Working with super image](howtos/UnpackRepackSuper.md)
+
+[GSI compatibility](howtos/WorkingWithGSI.md)
 
 ### Included tools
 
-(WIP)
+[Tools folder](tools)
 
 ### External tools
 
