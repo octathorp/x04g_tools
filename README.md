@@ -72,11 +72,15 @@ Ambas variantes cuentan con el mismo hardware y puede saltarse de una a otra ver
 
 ### Guías
 
-(trabajo en desarrollo)
+[Hacer copia de la flash completa](howtos/BackupFlash.md)
+
+[Trabajando con una imagen super](howtos/UnpackRepackSuper.md)
+
+[Compatibilidad de GSI](howtos/WorkingWithGSI.md)
 
 ### Herramientas incluidas
 
-(trabajo en desarrollo)
+[Carpeta de herramientas](tools)
 
 ### Herramientas externas
 
