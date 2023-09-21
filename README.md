@@ -34,6 +34,8 @@ Both variants share the same hardware, so you can install both software versions
 
 ### Included tools
 
+Linux only, requires lpunpack/lpmake and simg2img
+
 [Tools folder](tools)
 
 ### External tools
