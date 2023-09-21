@@ -1,6 +1,8 @@
 # x04g_tools
 Xiaomi Smart Clock - Global variant (X04G) development tools
 
+[More on this XDA thread](https://forum.xda-developers.com/t/xiaomi-mi-smart-clock-development-guide-gsi.4629771/)
+
 ## --------  English  --------
 
 This repo contains several useful tools for (Xiaomi) Mi Smart Clock development, mainly for X04G global version, but also working with chinese LX04 version.
