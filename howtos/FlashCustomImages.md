@@ -2,7 +2,7 @@
 
 It is important to make a backup before doing anything else in order to be able to restore the device if necessary. There are no recovery images for this device available online, therefore you will only be able to solve any problem derived from this procedure by restoring the backup that you should have made in the first place.
 
-[Backup whole flash](howtos/BackupFlash.md)
+[Backup whole flash](BackupFlash.md)
 
 ### Unlocking bootloader
 
