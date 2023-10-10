@@ -24,7 +24,7 @@ Disconnect the device, wait for a few seconds and reconnect it. Mi logo will sho
 ### Installing system
 
 Disconnect device from PC, and press three upper buttons to reconnect it. After 5 seconds release the mute button and leave the other two buttons pressed until the text "No command" shows on the screen.
-Press mute and volume + buttons several times until the usual recovery menu appears. Select "Reboot to bootloader".
+Kepp mute pressed and press volume + button once to reveal the usual recovery menu. Select "Reboot to bootloader".
 
 Once in fastboot mode, execute the following commands:
 
@@ -69,7 +69,7 @@ Desconectamos el dispositivo, esperamos unos segundos y volvemos a conectarlo. A
 ### Instalar el sistema
 
 Desconectamos el dispositivo del PC, y presionando los tres botones superiores lo volvemos a conectar. Pasados 5 segundos soltamos el boton de mute y dejamos los otros dos pulsados hasta que aparezca el texto "Sin comandos" en pantalla.
-Presionamos mute y volumen + varias veces hasta que aparezca el menú habitual de recovery. Seleccionamos "Reboot to bootloader".
+Mantenemos presionado mute y pulsamos volumen + una vez para que aparezca el menú habitual de recovery. Seleccionamos "Reboot to bootloader".
 
 Una vez en modo fastboot ejecutamos los siguientes comandos:
 
