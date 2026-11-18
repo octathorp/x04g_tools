@@ -34,6 +34,8 @@ Both variants share the same hardware, so you can install both software versions
 
 [GSI compatibility](howtos/WorkingWithGSI.md)
 
+[Root ADB on stock firmware and time zone update](howtos/RootStockAndTimezone.md)
+
 ### Included tools
 
 Linux only, requires lpunpack/lpmake and simg2img
@@ -81,6 +83,8 @@ Ambas variantes cuentan con el mismo hardware y puede saltarse de una a otra ver
 [Trabajando con una imagen super](howtos/UnpackRepackSuper.md)
 
 [Compatibilidad de GSI](howtos/WorkingWithGSI.md)
+
+[ADB root sobre el firmware original y actualización de zona horaria](howtos/RootStockAndTimezone.md)
 
 ### Herramientas incluidas
 
